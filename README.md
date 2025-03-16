@@ -42,10 +42,17 @@ The participant performed treadmill walking under controlled conditions. During 
 - Simultaneously, 3D kinematics data were captured using Vicon cameras tracking markers on the joints.
 - This synchronization enabled a comprehensive analysis of the relationship between muscle activation and joint movement.
 
-## Usage and Citation
-Please cite this dataset in your publications as follows:
+
 
 ## How to Cite This Dataset
 
-If you use this dataset in your research, please cite it as follows:
+If you use this dataset in your research, please cite it using this link:
+
+https://doi.org/10.5281/zenodo.15034698
+
+## creators
+Mojtaba Mollahossein 
+Farshad Haghgoo Daryakenari
+Hassan Mortazavi
+Gholamreza Vossoughi
 
